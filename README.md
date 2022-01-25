@@ -1,5 +1,6 @@
 # Generate TV Scripts
 
+
 ### Project Overview
 
 In this project, we'll generate our own [Seinfeld](https://en.wikipedia.org/wiki/Seinfeld) TV scripts using RNNs. We'll be using a dataset of Seinfeld scripts. 
